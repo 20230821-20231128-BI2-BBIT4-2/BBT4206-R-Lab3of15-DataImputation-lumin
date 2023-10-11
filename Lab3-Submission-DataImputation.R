@@ -18,6 +18,8 @@ StudentPerformanceSubset <- StudentPerformanceDataset %>%
          `Lab.Work..7...x.25.x.100`,
          `Lab.4...2.h.....Linear.Discriminant.Analysis..x.5`)
 
+         
+
 ##data_type2 <- typeof('Absenteeism Percentage')
 ##print(data_type2)
 
